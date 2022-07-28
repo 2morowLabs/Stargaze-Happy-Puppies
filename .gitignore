@@ -48,3 +48,5 @@ airdrop_addresses.csv
 # TS
 tsconfig.tsbuildinfo
 config.js
+.vscode
+.github
