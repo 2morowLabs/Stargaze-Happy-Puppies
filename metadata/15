@@ -1,0 +1,21 @@
+{
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "Dog"
+    },
+    {
+      "trait_type": "costume",
+      "value": "Mouse"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    }
+  ],
+  "description": "The first Stargaze collection for puppies lovers. Each artwork is handcrafted. Not the classic automated collection. Only 40 pieces available. Which animal do you want to be?",
+  "external_url": "https://example.com/?token_id=5",
+  "image": "ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/2.png",
+  "name": "Jerry Dog #15"
+}
